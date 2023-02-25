@@ -1,0 +1,17 @@
+
+body{
+  background: linear-gradient(45deg, rgba(177,56,219,1) 0%, rgba(72,18,198,1) 49%, rgba(0,212,255,1) 100%);
+  background-size: 400%;
+  animation: aniBg 15s infinite alternate;
+}
+
+@keyframes aniBg {
+  0%{
+    background-position: left;
+    
+  }
+  100%{
+    background-position: right;
+  }
+  
+}

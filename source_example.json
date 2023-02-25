@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 104300,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jude Whiley",
+            "title": "Yes, Lab-Grown Meat Is Vegan",
+            "description": "This new technology offers an opportunity to free animals from exploitation. So why are some vegans opposed to it?",
+            "url": "https://www.wired.com/story/lab-grown-meat-vegan-ethics-environment/",
+            "urlToImage": "https://media.wired.com/photos/63f014607d87edd2f4f35129/191:100/w_1280,c_limit/ideas_labgrown_meat_vegan_animals_ethics.jpg",
+            "publishedAt": "2023-02-19T12:00:00Z",
+            "content": "I wish I came to veganism through an epiphany about the right to personhood of animals, or recognition of the environmental harm that animal farming causes. But I didnt. What turned me vegan was a ni… [+3568 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Jennifer Doudna",
+            "title": "Crispr Wants to Feed the World",
+            "description": "The power to fight human diseases put genome editing on the map. But similar technology could help crops withstand the stress of climate change.",
+            "url": "https://www.wired.com/story/crispr-gene-editing-climate/",
+            "urlToImage": "https://media.wired.com/photos/63ceb9f6ba53d80ea8aba60d/191:100/w_1280,c_limit/01_Genetech-becomes-greentech.jpg",
+            "publishedAt": "2023-01-27T12:00:00Z",
+            "content": "Ten years after its discovery, the implications of Crispr genome editing are profound and far-reaching, and we are only getting started. This tool, adapted from a bacterial immune system, allows us t… [+3353 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Angela Watercutter",
+            "title": "Keanu Reeves Will Never Surrender to the Machines",
+            "description": "The Matrix movies brought Reeves and Chad Stahelski together. Now the duo is killing it on their fourth John Wick—and still keeping technology in check.",
+            "url": "https://www.wired.com/story/keanu-reeves-chad-stahelski-interview/",
+            "urlToImage": "https://media.wired.com/photos/63dac81484464089ca2fc691/191:100/w_1280,c_limit/WI030123_FF_HitMen_01.jpg",
+            "publishedAt": "2023-02-14T11:00:00Z",
+            "content": "Do you guys love science fiction?\r\nStahelski: Im always big on sci-fi. Like, John Wick is hyperreal. But its also got this analog sense. Old computers, old suits, old stuff.\r\nReeves: Im interested in… [+2543 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "The new tech offering relief from the misery of period pain",
+            "description": "Two start-up firms are making wearable technology that targets menstrual discomfort.",
+            "url": "https://www.bbc.co.uk/news/business-64397795",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E618/production/_128440985_paulanewphoto.jpg",
+            "publishedAt": "2023-01-30T00:08:15Z",
+            "content": "When Paula Fischer first read about the development of a wearable bodysuit that helps to relieve menstrual pain, the 33-year-old says she was \"very excited to try it\".\r\nLike many women, she experienc… [+6376 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Michelle Toh",
+            "title": "China says it is 'deeply concerned' about reports of the latest US clampdown on Huawei",
+            "description": "China has hit back after reports that Washington is moving to further restrict sales of American technology to Huawei.",
+            "url": "https://www.cnn.com/2023/01/31/tech/huawei-us-china-export-ban-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230131081259-huawei-factory-030619.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-31T09:59:36Z",
+            "content": "China has hit back after reports that Washington is moving to further restrict sales of American technology to Huawei. \r\nChina is deeply concerned, Mao Ning, a spokesperson for the countrys foreign m… [+1949 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ramishah Maruf",
+            "title": "Super Bowl ad slams Tesla's 'Full Self-Driving' tech",
+            "description": "Electric carmaker Tesla will face a hit on Super Bowl Sunday, when an ad will play showing the alleged dangers of its Full Self-Driving technology.",
+            "url": "https://www.cnn.com/2023/02/12/business/super-bowl-ad-tesla-full-self-driving/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230125081548-telsa-logo.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-02-12T17:43:25Z",
+            "content": "Electric carmaker Tesla will face a hit on Super Bowl Sunday, when an ad will play showing the alleged dangers of its Full Self-Driving technology.\r\nThe commercial, which will be aired in Washington,… [+4503 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Knight",
+            "title": "Meet Bard, Google's Answer to ChatGPT",
+            "description": "The search giant’s new chatbot is in testing and will be launched “in the coming weeks.” An API will make it available for developers to build on.",
+            "url": "https://www.wired.com/story/meet-bard-googles-answer-to-chatgpt/",
+            "urlToImage": "https://media.wired.com/photos/63e152492c04f953ea75713c/191:100/w_1280,c_limit/Google-Reveals-Bard-Business-1391547835.jpg",
+            "publishedAt": "2023-02-06T22:48:03Z",
+            "content": "Google isnt about to let Microsoft or anyone else make a swipe for its search crown without a fight. The company announced today that it will roll out a chatbot named Bard in the coming weeks. The la… [+4676 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Shubham Agarwal",
+            "title": "Audiobook Narrators Fear Spotify Used Their Voices to Train AI",
+            "description": "After a backlash, Spotify has removed a clause that allowed Apple to train machine learning models on some audiobook files.",
+            "url": "https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/",
+            "urlToImage": "https://media.wired.com/photos/63ea9209ec9575838d529923/191:100/w_1280,c_limit/Sec-apple-audio-654716637.jpg",
+            "publishedAt": "2023-02-14T16:03:54Z",
+            "content": "Starling believes Findaway has misused the material that authors and narrators entrusted it with. This is immoral and illegal, Starling told WIRED, Rights holders have the copyrights for the audioboo… [+3066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Stephen Shankland",
+            "title": "1Password Passkey Support Will Let You Dump Your 1 Password - CNET",
+            "description": "Login technology is slowly moving beyond today's feeble password technology.",
+            "url": "https://www.cnet.com/tech/services-and-software/1password-passkey-support-will-let-you-dump-your-1-password/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/ba7f04a94f33c35e7843de8edfd0ea3800577da0/hub/2022/06/09/f7fb5e4e-fa04-4491-b699-2cdbe512d63a/apple-passkeys-phone-crop.jpg?auto=webp&fit=crop&height=630&precrop=1492,838,x0,y0&width=1200",
+            "publishedAt": "2023-02-09T16:48:37Z",
+            "content": "Password manager 1Password will let you protect your vault of passwords with a passkey starting this summer, embracing an authentication technology designed to be as easy to use as passwords but more… [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Aarian Marshall",
+            "title": "Microsoft Taps ChatGPT to Boost Bing—and Beat Google",
+            "description": "The company's second-ranked search engine is getting a new chatbot interface that attempts to synthesize information from sites across the web.",
+            "url": "https://www.wired.com/story/microsoft-taps-chatgpt-to-boost-bing-and-beat-google/",
+            "urlToImage": "https://media.wired.com/photos/63e29afecde6e0e4f7129283/191:100/w_1280,c_limit/Biz-microsoft-1246378159.jpg",
+            "publishedAt": "2023-02-07T21:05:00Z",
+            "content": "Bings new chat-style interface is a greater departure from the traditional search box. In a demonstration, Microsoft vice president of search and devices Yusef Mehdi asked the chatbot to write a five… [+2869 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Internal 'Minecraft' demo reportedly uses AI to play the game for you",
+            "description": "Microsoft has spent years teaching AI to play Minecraft, but it's apparently making enough progress that the game needs very little human involvement. Semaforsources claim Microsoft has produced an internal demo that lets you control Minecraft simply by telli…",
+            "url": "https://www.engadget.com/minecraft-ai-demo-162512335.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/L1yaPYndcn_2.xvt0msHHw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/fafa6930-aed7-11ed-b7fd-2c3ffa56eec5.cf.jpg",
+            "publishedAt": "2023-02-17T16:25:12Z",
+            "content": "Microsoft has spent years teaching AI to play Minecraft, but it's apparently making enough progress that the game needs very little human involvement. Semaforsources claim Microsoft has produced an i… [+1358 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Dan Milmo Global technology editor",
+            "title": "Google poised to release chatbot technology after ChatGPT success",
+            "description": "Alphabet CEO says company well positioned in AI field, as analysts say ChatGPT has reached 100m usersGoogle is to make its chatbot technology available to the public in “the coming weeks and months” as it responds to the success of ChatGPT, a Microsoft-backed…",
+            "url": "https://www.theguardian.com/technology/2023/feb/03/google-poised-to-release-chatbot-technology-after-chatgpt-success",
+            "urlToImage": "https://i.guim.co.uk/img/media/f4150275f2ad179cde24039c0e19cd43545aa83b/0_95_5000_3001/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aadf2f55b4a5605bea10e89502666791",
+            "publishedAt": "2023-02-03T14:13:59Z",
+            "content": "Google is to make its chatbot technology available to the public in the coming weeks and months as it responds to the success of ChatGPT, a Microsoft-backed artificial intelligence chatbot that has b… [+3329 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Apple Releases Safari Technology Preview 162 With Bug Fixes and Performance Improvements",
+            "description": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that may be introduced into future release versions of Safari.\n\n\n\n\n…",
+            "url": "https://www.macrumors.com/2023/01/25/apple-releases-safari-technology-preview-162/",
+            "urlToImage": "https://images.macrumors.com/t/jHD1aGfXq86Ln_kfzTyWIF68vOo=/2368x/article-new/2021/02/Safari-Technology-Preview-Feature.jpg",
+            "publishedAt": "2023-01-25T21:27:35Z",
+            "content": "Apple today released a new update for Safari Technology Preview, the experimental browser Apple first introduced in March 2016. Apple designed the ‌Safari Technology Preview‌ to test features that ma… [+1175 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "NASA and DARPA will test nuclear thermal engines for crewed missions to Mars",
+            "description": "NASA\r\n is going back to an old idea as it tries to get humans to Mars. It is teaming up\r\n with the Defense Advanced Research Projects Agency (DARPA\r\n) to test a nuclear thermal rocket engine in space with the aim of using the technology for crewed missions to…",
+            "url": "https://www.engadget.com/nasa-darpa-nuclear-thermal-engine-crewed-missions-mars-200827580.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/2afbeb00-9c21-11ed-af95-cb9e155506ca",
+            "publishedAt": "2023-01-24T20:08:27Z",
+            "content": "NASA\r\n is going back to an old idea as it tries to get humans to Mars. It is teaming up\r\n with the Defense Advanced Research Projects Agency (DARPA\r\n) to test a nuclear thermal rocket engine in space… [+2625 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Nik Froehlich",
+            "title": "5 Predictions for Business Technology in 2023",
+            "description": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the “next big thing,” don’t get complacent. Technology continues to advance and drive business innovation. DevOps Will Domin…",
+            "url": "https://readwrite.com/predictions-for-business-technology-in-2023/",
+            "urlToImage": "https://images.readwrite.com/wp-content/uploads/2023/02/Predictions-for-Business-Tech.jpg",
+            "publishedAt": "2023-02-16T19:30:31Z",
+            "content": "The rate at which our technology is progressing is astounding, with no signs of slowing. While it’s easy to get bogged down by news of the next big thing, dont get complacent. Technology continues to… [+5672 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bevans@insider.com (Brian Evans)",
+            "title": "First VC investor in ChatGPT parent OpenAI sees a 2-horse AI race as Microsoft and Google eye 'the most critical technology for the planet'",
+            "description": "\"AI technology is probably the most critical technology for the planet in the next 20 years,\" Vinod Khosla told CNBC.",
+            "url": "https://markets.businessinsider.com/news/stocks/google-vs-microsoft-artificial-intelligence-rate-chatgpt-openai-vinod-khosla-2023-2",
+            "urlToImage": "https://i.insider.com/63e553ee27e5db0018eef868?width=1200&format=jpeg",
+            "publishedAt": "2023-02-09T20:45:43Z",
+            "content": "Opportunities in artificial intelligence will be much larger than people expect, but the market will be a two-horse race, according to venture capitalist Vinod Khosla, who was the first VC investor i… [+1983 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Microsoft could show off AI-powered versions of Word and Outlook this March",
+            "description": "Microsoft reportedly plans to introduce upgraded Office apps with AI features in the coming weeks. According to The Verge, the tech giant is preparing to show what its Prometheus AI technology and OpenAI's language AI can do for Word, PowerPoint, Outlook and …",
+            "url": "https://www.engadget.com/microsoft-could-show-off-ai-powered-versions-of-word-and-outlook-this-march-153514888.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/9d507300-aa0f-11ed-bc1f-6c48293b267d",
+            "publishedAt": "2023-02-11T15:35:14Z",
+            "content": "Microsoft reportedly plans to introduce upgraded Office apps with AI features in the coming weeks. According to The Verge, the tech giant is preparing to show what its Prometheus AI technology and Op… [+1454 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "CNET pauses publication of AI-written stories amid controversy",
+            "description": "CNET is halting its use of AI-written articles for the time being. The Vergeclaims the technology publication's leadership has paused experiments with AI stories \"for now\" during a question-and-answer call with staff. While there's no word on the exact reason…",
+            "url": "https://www.engadget.com/cnet-pauses-ai-written-stories-211548131.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-images/2019-10/1244df20-e53d-11e9-bff5-bb101d2b14c2",
+            "publishedAt": "2023-01-20T21:15:48Z",
+            "content": "CNET is halting its use of AI-written articles for the time being. The Vergeclaims the technology publication's leadership has paused experiments with AI stories \"for now\" during a question-and-answe… [+1505 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Sindhu Sundar)",
+            "title": "ChatGPT 'may make up facts,' OpenAI's chief technology officer says",
+            "description": "OpenAI's CTO Mira Murati said ChatGPT's responses may not be accurate, acknowledging the bot's pitfalls in an interview with Time magazine.",
+            "url": "https://www.businessinsider.com/chatgpt-may-make-up-facts-openai-cto-mira-murati-says-2023-2",
+            "urlToImage": "https://i.insider.com/63e136a6428e0c0019f7b29c?width=1200&format=jpeg",
+            "publishedAt": "2023-02-06T18:34:18Z",
+            "content": "ChatGPT has captivated the worlds of tech, media, and education since OpenAI released the chatbot to the public in November, but its responses might not always be right. \r\nThe bot \"may make up facts\"… [+1984 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Knight",
+            "title": "Roblox Is Bringing Generative AI to Its Gaming Universe",
+            "description": "The company aims to draw on the new technology’s code-writing ability to make its digital worlds even more customizable.",
+            "url": "https://www.wired.com/story/roblox-generative-ai-gaming-universe/",
+            "urlToImage": "https://media.wired.com/photos/63ef9162ec9575838d5299ab/191:100/w_1280,c_limit/Roblox-Generative-AI-Materials_science.jpg",
+            "publishedAt": "2023-02-17T17:42:26Z",
+            "content": "Roblox is testing a tool that could accelerate the process of building and altering in-game objects by getting artificial intelligence to write the code. The tool lets anyone playing Roblox create it… [+3080 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Ticketmaster wants Congress to fix its bot problem",
+            "description": "In November, millions of Taylor Swift fans logged on to Ticketmaster to grab tickets for her 2023 tour. However, the site crashed, rendering verified users unable to purchase. Ticketmaster's parent company, Live Nation, explained that while 1.5 million people…",
+            "url": "https://www.engadget.com/the-morning-after-ticketmaster-wants-congress-to-fix-its-bot-problem-121540336.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-images/2019-07/f010ad10-a3df-11e9-bfbf-b551faf121e0",
+            "publishedAt": "2023-01-25T12:15:40Z",
+            "content": "In November, millions of Taylor Swift fans logged on to Ticketmaster to grab tickets for her 2023 tour. However, the site crashed, rendering verified users unable to purchase. Ticketmaster's parent c… [+3622 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Khari Johnson",
+            "title": "One Startup’s Plan to Help Africa Lure Back Its AI Talent",
+            "description": "Lelapa is building a research lab to serve African businesses and nonprofits, with the hope that locally grown algorithms can better serve communities.",
+            "url": "https://www.wired.com/story/one-startups-plan-to-help-africa-lure-back-its-ai-talent/",
+            "urlToImage": "https://media.wired.com/photos/63ed3d75e20576b439b7c7b7/191:100/w_1280,c_limit/business-africa-ai-research-lab.jpg",
+            "publishedAt": "2023-02-17T13:00:00Z",
+            "content": "During a trip home to Johannesburg, South Africa, while completing an engineering masters program in Japan, Pelonomi Moiloa attended the largest machine learning community gathering shed ever seen in… [+3334 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "DARPA wants AR goggles to help soldiers with complex tasks",
+            "description": "DARPA (Defense Advanced Research Projects Agency) is developing a new system to help military personnel perform complex tasks. Perceptually-enabled Task Guidance (PTG) technology uses sensors to see and hear what the user sees and hears, guiding them through …",
+            "url": "https://www.engadget.com/darpa-ptg-program-hololens-ai-ar-instructions-214124511.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/d803ff40-9cf3-11ed-b7d7-a067aeaf2052",
+            "publishedAt": "2023-01-25T21:41:24Z",
+            "content": "DARPA (Defense Advanced Research Projects Agency) is developing a new system to help military personnel perform complex tasks. Perceptually-enabled Task Guidance (PTG) technology uses sensors to see … [+2116 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Microsoft is holding a press event tomorrow, with ChatGPT expected to feature heavily",
+            "description": "You might not have to wait long to see how Microsoft and OpenAI deepen their relationship. Microsoft has confirmed plans for an event tomorrow (invitations were sent out last week) at its Redmond headquarters at 1PM Eastern. The company will only say that chi…",
+            "url": "https://www.engadget.com/microsoft-surprise-event-bing-chatgpt-201414297.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/3f0c3c20-a659-11ed-bc8d-0604f23e0bd4",
+            "publishedAt": "2023-02-06T20:14:14Z",
+            "content": "You might not have to wait long to see how Microsoft and OpenAI deepen their relationship. Microsoft has confirmed plans for an event tomorrow (invitations were sent out last week) at its Redmond hea… [+674 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "The Realme 10 Pro 5G taps Coca-Cola for a cool and refreshing new look",
+            "description": "Realme and Coca-Cola have now revealed the new collaborative phone pairing technology with a classic old refreshment.",
+            "url": "https://www.androidcentral.com/phones/realme-10-pro-5g-coca-cola-edition",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/DneNfUAH6DWiuSVkjCg6ma-1200-80.jpg",
+            "publishedAt": "2023-02-10T20:16:16Z",
+            "content": "<ul><li>The Realme 10 Pro Coca-Cola Edition phone has been revealed.</li><li>The 10 Pro features a unique Coca-Cola backing and several unique and different software changes a regular phone will not … [+2564 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Central"
+            },
+            "author": "tips@androidcentral.com (Nickolas Diaz)",
+            "title": "OnePlus Buds Pro 2 adopt Android 13's Spatial Audio, seamless connectivity with Fast Pair",
+            "description": "OnePlus announces its Buds Pro 2 will incorporate Android 13's Spatial Audio technology and additional immersive improvements.",
+            "url": "https://www.androidcentral.com/accessories/audio/oneplus-buds-pro-2-spatial-audio",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/sY2sGW2TRUcDCqBptSbz3F-1200-80.jpg",
+            "publishedAt": "2023-01-23T19:19:29Z",
+            "content": "<ul><li>The OnePlus Buds Pro 2 will receive an audio boost as they include Spatial Audio for a multi-dimensional, cinema-like sound experience.</li><li>The true wireless earbuds will also include Goo… [+2982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Andrew Rawnsley",
+            "title": "In the global race to dominate green technology, Britain is still tying its shoelaces",
+            "description": "As the US, China and now the EU compete for the fruits of the green economy, the UK is hamstrung by Tory dogma, dither and delayThe United States is out of the blocks. The European Union is hurrying along the track. China is competing too. Here in dear old bl…",
+            "url": "https://www.theguardian.com/commentisfree/2023/feb/05/global-race-dominate-green-technology-britain-still-tying-its-shoelaces",
+            "urlToImage": "https://i.guim.co.uk/img/media/bef3b7c26a050cc24dfb96352d6c73a39e1feb66/0_45_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=ede5dd31a8be262f313231ac676967bf",
+            "publishedAt": "2023-02-05T09:00:17Z",
+            "content": "The United States is out of the blocks. The European Union is hurrying along the track. China is competing too. Here in dear old blighty, we are not even at the starting line. While others are dashin… [+8971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Torsten Bell",
+            "title": "It’s so easy to cheat with technology that even judges are doing it | Torsten Bell",
+            "description": "Everyone uses Wikipedia, but should it really be affecting what happens in court?Remember when loads of academics were confidently predicting that technology, from robots to AI, was about to destroy all our jobs? They were wrong. We went into Covid with recor…",
+            "url": "https://www.theguardian.com/commentisfree/2023/feb/04/its-so-easy-to-with-technology-that-even-judges-are-doing-it",
+            "urlToImage": "https://i.guim.co.uk/img/media/cbdc40e280a62fbe32c4cf677611ca8e32377802/186_343_3306_1983/master/3306.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tb3BpbmlvbnMucG5n&enable=upscale&s=e494534436f15e26f7669ca98059566b",
+            "publishedAt": "2023-02-04T18:30:09Z",
+            "content": "Remember when loads of academics were confidently predicting that technology, from robots to AI, was about to destroy all our jobs? They were wrong. We went into Covid with record employment before t… [+1496 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Stephen Shankland",
+            "title": "Microsoft Unveils AI-Powered Bing, a New Challenge to Google Search - CNET",
+            "description": "Microsoft is building AI technology based on the same foundation as ChatGPT into search, Edge, Office and other products.",
+            "url": "https://www.cnet.com/tech/computing/microsoft-unveils-ai-powered-bing-a-new-challenge-to-google-search/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/5661ae04a401e08666cedc0c1d07b99a2e895c16/hub/2023/02/07/1341c8c5-4dbe-4045-8dfc-7b8664380bbd/20230207-satya-nadella-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-07T18:47:00Z",
+            "content": "Microsoft on Tuesday unveiled a new version of its Bing search engine that adds the technology behind ChatGPT technology, an AI system for conversational and creative responses that marks the first b… [+1126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "Google Adding 'Bard' Chatbot to Google Search, While Microsoft Debuts Updated ChatGPT Technology for Bing",
+            "description": "The growing popularity of OpenAI's ChatGPT chatbot has inspired Microsoft and Google to add conversational AI functionality into their search products, with both companies making AI-related announcements this week.\n\n\n\n\n\nGoogle yesterday introduced Bard, a cha…",
+            "url": "https://www.macrumors.com/2023/02/07/google-microsoft-ai-chat-search-products/",
+            "urlToImage": "https://images.macrumors.com/t/Ekf9NKfg_xy6FLC_n-IZC1JXL48=/1920x/article-new/2023/02/microsoft-bing-chatgpt.jpg",
+            "publishedAt": "2023-02-07T19:26:14Z",
+            "content": "The growing popularity of OpenAI's ChatGPT chatbot has inspired Microsoft and Google to add conversational AI functionality into their search products, with both companies making AI-related announcem… [+2860 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "hbullock@insider.com (Hallam Bullock)",
+            "title": "Bing's wild week",
+            "description": "In our Saturday edition: Microsoft may well have overestimated just how impactful a technology \"new Bing\" will be.",
+            "url": "https://www.businessinsider.com/10-things-in-tech-microsoft-bing-ai-wild-week-2023-2",
+            "urlToImage": "https://i.insider.com/63efb4cf0b940100196f618f?width=1200&format=jpeg",
+            "publishedAt": "2023-02-18T12:31:00Z",
+            "content": "Hello, readers. Hallam Bullock here, dialing in from across the pond. \r\nLook! Up in the sky! It's a bird! It's a Chinese spy balloon! It's just a regular balloon. At least, here in London it is.  \r\nI… [+3489 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "insider@insider.com (Sponsor Post)",
+            "title": "This exec is using technology to improve the fan experience at live events",
+            "description": "A collaboration between IBM and Canon is bringing new visual experiences to sports fans everywhere.",
+            "url": "https://www.businessinsider.com/sc/an-exec-is-using-technology-to-improve-the-live-event-experience",
+            "urlToImage": "https://i.insider.com/63a1e2c1ae4bde00195003bd?width=1200&format=jpeg",
+            "publishedAt": "2023-02-17T16:25:27Z",
+            "content": "Imagine watching your favorite sport up close, as if you were standing on the court with the athletes. \r\nDevelopments in technology are making this feel like a possibility.\r\nAtsushi Date, a senior ge… [+4847 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ReadWrite"
+            },
+            "author": "Ali Hasnain",
+            "title": "Fintech Mobile App Development: How to Find the Best Company?",
+            "description": "Fintech, or financial technology, is the latest and most adaptive technology used to automate and digitize the financial industry. Financial technology is helping business individuals, corporates, and large and small-scale companies to resolve their financial…",
+            "url": "https://readwrite.com/fintech-mobile-app-development-how-to-find-the-best-company/",
+            "urlToImage": "https://images.readwrite.com/wp-content/uploads/2022/12/Fintech-Mobile-App-Development-1.jpg",
+            "publishedAt": "2023-01-25T23:07:12Z",
+            "content": "Fintech, or financial technology, is the latest and most adaptive technology used to automate and digitize the financial industry. Financial technology is helping business individuals, corporates, an… [+8060 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "David Anders",
+            "title": "SimpliSafe's Newest Indoor Camera Puts Emphasis on Security - CNET",
+            "description": "The wireless indoor camera has a built-in siren and smart detection technology that triggers it in response to unusual or suspicious activity.",
+            "url": "https://www.cnet.com/home/security/simplisafes-newest-indoor-camera-puts-emphasis-on-security/",
+            "urlToImage": "https://www.cnet.com/a/img/resize/42502c7335f28af982710b1f2d0d38634afc57a5/hub/2023/02/02/8461574e-53ed-410f-a3bb-7408e6412754/simplisafe.jpg?auto=webp&fit=crop&height=630&width=1200",
+            "publishedAt": "2023-02-02T18:33:00Z",
+            "content": "SimpliSafe's newest home security tool is built to combat break-ins. The company launched the Smart Alarm Wireless Indoor Security Camera on Thursday.\r\nThe Smart Alarm Camera immediately stands out f… [+1760 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "oseddiq@insider.com (Oma Seddiq)",
+            "title": "George Santos says he'll step down from his committees amid scandals",
+            "description": "George Santos was set to serve on the House Science, Space and Technology Committee and House Small Business Committee.",
+            "url": "https://www.businessinsider.com/george-santos-says-hell-step-down-from-committees-amid-scandals-2023-1",
+            "urlToImage": "https://i.insider.com/63d92ee7526500001938ed08?width=1200&format=jpeg",
+            "publishedAt": "2023-01-31T15:15:01Z",
+            "content": "Rep. George Santos of New York on Tuesday told his fellow Republican colleagues during a conference meeting that he will step down from his committee assignments, three people familiar with the situa… [+312 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Dan Milmo Global technology editor",
+            "title": "Google trials its own AI chatbot Bard after success of ChatGPT",
+            "description": "Technology will be added to Google’s search engine after explosion in use of rival backed by MicrosoftGoogle is releasing its own artificial intelligence chatbot, called Bard, in response to the huge success of the Microsoft-backed ChatGPT.The company is also…",
+            "url": "https://www.theguardian.com/technology/2023/feb/06/google-releases-its-own-ai-chatbot-bard-after-success-of-chatgpt",
+            "urlToImage": "https://i.guim.co.uk/img/media/47c816dc491d53a5bb44d175ce475f0dde6465ad/0_0_4982_2991/master/4982.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9071aca800204eb20d191c29f29f03ea",
+            "publishedAt": "2023-02-06T19:47:48Z",
+            "content": "Google is releasing its own artificial intelligence chatbot, called Bard, in response to the huge success of the Microsoft-backed ChatGPT.\r\nThe company is also adding the technology behind Bard to th… [+2935 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "T-Mobile outage affected thousands of users across the US",
+            "description": "T-Mobile suffered network outages on Monday night, leading to intermittent issues with its voice, text and data services, according to Reuters. Based on reports submitted to Downdetector, over 80,000 subscribers in several areas in the US were experiencing pr…",
+            "url": "https://www.engadget.com/t-mobile-outage-affected-thousands-of-users-across-the-us-064658901.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/4eb5e2f0-ad1a-11eb-bde7-f72610988624",
+            "publishedAt": "2023-02-14T06:46:58Z",
+            "content": "T-Mobile suffered network outages on Monday night, leading to intermittent issues with its voice, text and data services, according to Reuters. Based on reports submitted to Downdetector, over 80,000… [+1362 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "Every actor on our ruined planet will star in Apple TV+'s 'Extrapolations'",
+            "description": "Extrapolations, a drama series focusing on the near-future impacts of climate change\r\n, is coming to Apple TV+\r\n next month. The streaming service has released the first trailer, which shows off a cast stuffed full of big names. Among the stars featured in th…",
+            "url": "https://www.engadget.com/every-actor-on-our-ruined-planet-will-star-in-apple-tvs-extrapolations-162616337.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/83811260-ad4b-11ed-9fbf-3558797d04fd",
+            "publishedAt": "2023-02-15T16:26:16Z",
+            "content": "Extrapolations, a drama series focusing on the near-future impacts of climate change\r\n, is coming to Apple TV+\r\n next month. The streaming service has released the first trailer, which shows off a ca… [+1180 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Emily Rella",
+            "title": "These 'Upscale' Walmarts Are Offering In-Store Custom Hair Care Services",
+            "description": "A TikToker in Arkansas is showing off the new technology that Walmart has implemented in 2,500 locations across the country.",
+            "url": "https://www.entrepreneur.com/business-news/these-upscale-walmarts-have-custom-hair-care-stations/443743",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1674757887-ScreenShot2023-01-26at13057PM.png",
+            "publishedAt": "2023-01-26T18:57:00Z",
+            "content": "When you think of Walmart, the words \"fancy\" and \"luxurious\" probably don't necessarily come to mind.\r\nBut shopping at Walmart in Arkansas has become a one-stop shop for luxury including offering a c… [+3355 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "stabahriti@insider.com (Sam Tabahriti)",
+            "title": "ChatGPT could be used by 'bad actors' and should be regulated, OpenAI's chief technology officer says",
+            "description": "Mira Murati, CTO of OpenAI, said 'it's not too early' to regulate the artificial intelligence tool due to its popularity.",
+            "url": "https://www.businessinsider.com/chatgpt-creator-says-may-make-up-facts-used-bad-actors-2023-2",
+            "urlToImage": "https://i.insider.com/63dfb73fe33c4000193afb4b?width=1200&format=jpeg",
+            "publishedAt": "2023-02-05T16:17:23Z",
+            "content": "The chief technology officer at ChatGPT's creator OpenAI has said that the AI tool should be regulated as it could be used by \"bad actors.\"\r\nMira Murati said in an interview with Time magazine that t… [+1758 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "sdelouya@insider.com (Samantha Delouya)",
+            "title": "ChatGPT creator OpenAI might be training its AI technology to replace some software engineers, report says",
+            "description": "OpenAI has reportedly quietly hired hundreds of international contractors in the last 6 months to train its AI in software engineering.",
+            "url": "https://www.businessinsider.com/openai-chatgpt-contractors-train-ai-software-engineering-autonomous-vehicles-report-2023-1",
+            "urlToImage": "https://i.insider.com/63d414c4fc18470019551e68?width=1200&format=jpeg",
+            "publishedAt": "2023-01-27T21:06:48Z",
+            "content": "OpenAI has quietly hired hundreds of international contractors to train its artificial intelligence in software engineering, according to a report from Semafor. \r\nSome contractors, hired in the last … [+1260 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Associated Press in New York",
+            "title": "New York rejects Fox News’ bid to end voting firm’s lawsuit",
+            "description": "Defamation lawsuit accuses network of spreading lies that voting technology company helped ‘steal’ 2020 election from TrumpFox News lost an attempt on Tuesday to shut down a multibillion-dollar defamation lawsuit that accuses the network of spreading lies tha…",
+            "url": "https://www.theguardian.com/media/2023/feb/15/fox-news-lawsuit-voting-company-trump",
+            "urlToImage": "https://i.guim.co.uk/img/media/8ef987023172c96597f0580b80a939413f9f894f/0_405_6081_3649/master/6081.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d828256a36958012160d21f40527fd5",
+            "publishedAt": "2023-02-15T13:29:21Z",
+            "content": "Fox News lost an attempt on Tuesday to shut down a multibillion-dollar defamation lawsuit that accuses the network of spreading lies that a voting technology company helped steal the 2020 election fr… [+3621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Anna Belova",
+            "title": "Are You Hesitant to Use AR Technology? Here's Why You Need to Jump on It Now.",
+            "description": "Many people are still hesitant to use augmented reality. Why? Let's figure it out together.",
+            "url": "https://www.entrepreneur.com/science-technology/are-you-hesitant-to-use-ar-technology-heres-why-you-need/442447",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1674663970-GettyImages-1398774251.jpg",
+            "publishedAt": "2023-01-30T18:00:00Z",
+            "content": "In the digital world, there are many things that are successful right now, but literally 3-5-10 years from now, we will no longer be able to imagine our lives without them. As the founder and CEO of … [+5799 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Gabrielle Bienasz",
+            "title": "'Google Has Caused Great Harm': Justice Department Sues Google Over Advertising Technology",
+            "description": "Eight state attorneys general and the Department of Justice are going after what they say is a digital ad tech monopoly.",
+            "url": "https://www.entrepreneur.com/business-news/doj-sues-google-over-digital-advertising-monopoly/443592",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1674595530-bikigngoogle.jpg",
+            "publishedAt": "2023-01-24T22:18:00Z",
+            "content": "The Justice Department and eight state attorneys general filed a lawsuit in federal court against Google Tuesday for what they said is the company's monopoly in technology used in digital advertising… [+2038 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "Vrbo's Super Bowl 'risk scores' are basically pre-crime for house parties",
+            "description": "As the Super Bowl approaches, Airbnb rival Vrbo announced its use of “unauthorized event prevention technology,” algorithms that try to avoid house parties at rental properties. Similar to a credit system, the tech generates a risk score for each booking, giv…",
+            "url": "https://www.engadget.com/vrbo-super-bowl-house-party-risk-score-193020734.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/24a52e70-a189-11ed-bedb-e4a63aac0e3a",
+            "publishedAt": "2023-01-31T18:25:20Z",
+            "content": "As the Super Bowl approaches, Airbnb rival Vrbo announced its use of unauthorized event prevention technology, algorithms that try to avoid house parties at rental properties. Similar to a credit sys… [+1138 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: Microsoft’s next-gen Bing is ‘more powerful’ than ChatGPT",
+            "description": "Bing may be back. Microsoft announced yesterday it’s partnering with OpenAI to enhance Bing with its AI technology. However, Microsoft also had a surprise up its sleeve: The next release of Bing will tap into a new next-generation language model the company c…",
+            "url": "https://www.engadget.com/the-morning-after-microsofts-next-gen-bing-is-more-powerful-than-chatgpt-ai-chatbot-121546039.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/681984f0-a718-11ed-b9b7-796d069328e5",
+            "publishedAt": "2023-02-08T12:15:46Z",
+            "content": "Bing may be back. Microsoft announced yesterday its partnering with OpenAI to enhance Bing with its AI technology. However, Microsoft also had a surprise up its sleeve: The next release of Bing will … [+3669 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mat Smith",
+            "title": "The Morning After: TikTok's CEO will testify before a congressional committee",
+            "description": "The CEO of TikTok, Shou Zi Chew, will testify before the House Energy and Commerce Committee on March 23rd. Chew will discuss the app's privacy and data security measures, its impact on kids and ties to China (where parent company ByteDance is headquartered).…",
+            "url": "https://www.engadget.com/the-morning-after-tiktok-ceo-testify-congressional-committee-china-121550619.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-12/593ed910-8ded-11ed-b77f-c6893fa224a0",
+            "publishedAt": "2023-01-31T12:15:50Z",
+            "content": "The CEO of TikTok, Shou Zi Chew, will testify before the House Energy and Commerce Committee on March 23rd. Chew will discuss the app's privacy and data security measures, its impact on kids and ties… [+3261 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cool Hunting"
+            },
+            "author": "Kelly Pau",
+            "title": "How Origami Is Innovating Technology",
+            "description": "Origami dates back to the 17th century in Japan, but it wasn’t until the mid-20th century that people began to consider the practice an art form due, in large part, to origami master Akira Yoshizawa. Since then, origami has gone on to become a respected art a…",
+            "url": "http://coolhunting.com/tech/how-origami-is-innovating-technology/",
+            "urlToImage": "https://i0.wp.com/coolhunting.com/wp-content/uploads/2023/01/starshade.jpg?fit=781%2C781&ssl=1",
+            "publishedAt": "2023-01-25T18:28:25Z",
+            "content": "Origami dates back to the 17th century in Japan, but it wasn’t until the mid-20th century that people began to consider the practice an art form due, in large part, to origami master Akira Yoshizawa.… [+769 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Thomas Germain",
+            "title": "The CEO Behind ChatGPT Says Schools Need to Get Over Their Cheating Fears. Some Experts Agree.",
+            "description": "ChatGPT writes well enough to fool scientific reviewers, ace AP tests in English and computer science—it even passed the bar exam. The bot sparked a lot of hand-wringing about an upcoming plague of cheating, and many educators are scrambling to get out in fro…",
+            "url": "https://gizmodo.com/chatgpt-openai-ceo-sam-altman-schools-cheating-1850011314",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f8abbe786ed14cd9f54287850e884852.jpg",
+            "publishedAt": "2023-01-20T16:48:00Z",
+            "content": "ChatGPT writes well enough to fool scientific reviewers, ace AP tests in English and computer scienceit even passed the bar exam. The bot sparked a lot of hand-wringing about an upcoming plague of ch… [+4816 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Wall St Week Ahead Tech stock rebound faces doubters with ... - Reuters",
+            "description": "A spate of earnings reports in coming weeks is set to test a recent bounce in technology and other megacap stocks, a category whose leadership position in U.S. markets has faltered after last year’s deep selloff.",
+            "url": "https://www.reuters.com/markets/us/wall-st-week-ahead-tech-stock-rebound-faces-doubters-with-earnings-season-ahead-2023-01-20/",
+            "urlToImage": "https://www.reuters.com/resizer/a0cUx9rcHxMp6EhYIACk7EagKsQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P5JIBHCIQFNCJBUQWUYHGF5OS4.jpg",
+            "publishedAt": "2023-01-20T15:40:00Z",
+            "content": "NEW YORK, Jan 20 (Reuters) - A spate of earnings reports in coming weeks is set to test a recent bounce in technology and other megacap stocks, a category whose leadership position in U.S. markets ha… [+4497 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "A.I. uncovers unknown play by Spanish great in library archive - Reuters",
+            "description": "Artificial intelligence (AI) technology used to transcribe anonymous historic works at Spain's National Library archives has uncovered a hidden gem - a previously unknown play by one of the nation's greatest authors, Felix Lope de Vega.",
+            "url": "https://www.reuters.com/lifestyle/oddly-enough/ai-uncovers-unknown-play-by-spanish-great-library-archive-2023-01-31/",
+            "urlToImage": "https://www.reuters.com/resizer/m0q_ViEPI-zwsVBGjMP2Vl-NzbU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/X5WI3VNUMRIWXAPQHZOWGCSBWE.jpg",
+            "publishedAt": "2023-01-31T14:43:00Z",
+            "content": "MADRID, Jan 31 (Reuters) - Artificial intelligence (AI) technology used to transcribe anonymous historic works at Spain's National Library archives has uncovered a hidden gem - a previously unknown p… [+1662 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Sherlock Bio to buy UK firm in quest for CRISPR-based handheld ... - Reuters",
+            "description": "Privately-held Sherlock Biosciences said on Wednesday it has acquired UK-based Sense Biodetection to speed up the launch of handheld diagnostic tests that use the breakthrough CRISPR gene editing technology.",
+            "url": "https://www.reuters.com/markets/deals/sherlock-bio-buy-uk-firm-quest-crispr-based-handheld-diagnostic-tests-2023-02-01/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=129",
+            "publishedAt": "2023-02-01T12:01:00Z",
+            "content": "Feb 1 (Reuters) - Privately-held Sherlock Biosciences said on Wednesday it has acquired UK-based Sense Biodetection to speed up the launch of handheld diagnostic tests that use the breakthrough CRISP… [+698 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Google fires back at Republican National Committee lawsuit over ... - Reuters",
+            "description": "Alphabet Inc's Google LLC on Monday denied partisan animus spurred the technology company to send Republican National Committee messages to the spam boxes of Google email users, in a bid to dismiss the political organization's lawsuit in California federal co…",
+            "url": "https://www.reuters.com/legal/transactional/google-fires-back-republican-national-committee-lawsuit-over-spam-email-2023-01-24/",
+            "urlToImage": "https://www.reuters.com/resizer/ae0vzTGkMVPoO497OfJ6yFJlIgU=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Y3BSYCB45RIEJDTXIXYPIGCNN4.jpg",
+            "publishedAt": "2023-01-24T21:29:00Z",
+            "content": "<ul><li>\r\nSummary</li><li>\r\nCompanies</li><li>\r\nLaw firms</li></ul>\r\n(Reuters) - Alphabet Inc's Google LLC on Monday denied partisan animus spurred the technology company to send Republican National … [+2936 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "EU warns of 'unfair' Chinese subsidies in Green Deal plan - draft - Reuters",
+            "description": "Europe and its partners must do more to combat the effect of Chinese subsidies for the manufacture of clean technology products, the European Commission is set to say on Wednesday in its \"Green Deal Industrial Plan\".",
+            "url": "https://www.reuters.com/markets/eu-warns-unfair-chinese-subsidies-green-deal-plan-draft-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/JnT0ouIebVLBzlbAvCiiJDdxVC8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CLKCLDE7INMH5KKXVRRNBOP5E4.jpg",
+            "publishedAt": "2023-01-30T17:07:00Z",
+            "content": "BRUSSELS, Jan 30 (Reuters) - Europe and its partners must do more to combat the effect of Chinese subsidies for the manufacture of clean technology products, the European Commission is set to say on … [+1771 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Davos 2023-Meta sees promise in generative AI, including for ... - Reuters",
+            "description": "Generative artificial intelligence, the umbrella technology behind the popular chatbot ChatGPT, has interesting applications for social media, the chief product officer for Facebook parent Meta Platforms Inc <a href=\"https://www.reuters.com/companies/META.O\" …",
+            "url": "https://www.reuters.com/technology/davos-2023-meta-sees-promise-generative-ai-including-instagram-filters-2023-01-19/",
+            "urlToImage": "https://www.reuters.com/resizer/ZYDMYPCb1mkwySHI1uD8zjrOgoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDFHGK4QCJOXNCOTVIM6U32PF4.jpg",
+            "publishedAt": "2023-01-19T15:13:00Z",
+            "content": "DAVOS, Switzerland, Jan 19 (Reuters) - Generative artificial intelligence, the umbrella technology behind the popular chatbot ChatGPT, has interesting applications for social media, the chief product… [+659 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Apple appeals investigation by UK competition watchdog - Reuters",
+            "description": "Technology giant Apple <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> has filed an appeal against an investigation by Britain's competition watchdog into the dominance of its mobile browsers in the cloud gaming market.",
+            "url": "https://www.reuters.com/technology/apple-appeals-investigation-by-uk-competition-watchdog-2023-01-20/",
+            "urlToImage": "https://www.reuters.com/resizer/fomlD3SDg_k3q4etQXdQo_0kr6k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SGS543EET5MUXOMQXVJEOCLZIY.jpg",
+            "publishedAt": "2023-01-20T12:41:00Z",
+            "content": "LONDON, Jan 20 (Reuters) - Technology giant Apple (AAPL.O) has filed an appeal against an investigation by Britain's competition watchdog into the dominance of its mobile browsers in the cloud gaming… [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. approves design for NuScale small modular nuclear reactor - Reuters",
+            "description": "The U.S. nuclear power regulator has certified the design for the NuScale Power Corp's <a href=\"https://www.reuters.com/companies/SMR.N\" target=\"_blank\">(SMR.N)</a> small modular reactor, the first such approval in the country for the next generation technolo…",
+            "url": "https://www.reuters.com/business/energy/us-approves-design-nuscale-small-modular-nuclear-reactor-2023-01-20/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=127",
+            "publishedAt": "2023-01-20T20:32:00Z",
+            "content": "WASHINGTON, Jan 20 (Reuters) - The U.S. nuclear power regulator has certified the design for the NuScale Power Corp's (SMR.N) small modular reactor, the first such approval in the country for the nex… [+2048 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Spain, France champion Europe's industry in bilateral summit - Reuters",
+            "description": "The United States' efforts to boost green technology should not imply dismantling Europe's industry, Spanish Prime Minister Pedro Sanchez said on Thursday after signing a new bilateral treaty with French President Emmanuel Macron in Barcelona.",
+            "url": "https://www.reuters.com/business/energy/spain-france-champion-europes-industry-bilateral-summit-2023-01-19/",
+            "urlToImage": "https://www.reuters.com/resizer/0MoGlnG7fOBJ2j9wdPY73sHYFDk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IU4JDXWIMFJSDMUTSFWNFDECF4.jpg",
+            "publishedAt": "2023-01-19T15:09:00Z",
+            "content": "BARCELONA, Jan 19 (Reuters) - The United States' efforts to boost green technology should not imply dismantling Europe's industry, Spanish Prime Minister Pedro Sanchez said on Thursday after signing … [+1487 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Self-driving tech firm Aurora names Ossa Fisher as president - Reuters",
+            "description": "Aurora Innovation Inc <a href=\"https://www.reuters.com/companies/AUR.O\" target=\"_blank\">(AUR.O)</a> on Monday named Ossa Fisher as president to focus on scaling operations at the self-driving technology company ahead of its commercial launch in 2024.",
+            "url": "https://www.reuters.com/technology/self-driving-tech-firm-aurora-names-ossa-fisher-president-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=127",
+            "publishedAt": "2023-01-30T22:20:00Z",
+            "content": "Jan 30 (Reuters) - Aurora Innovation Inc (AUR.O) on Monday named Ossa Fisher as president to focus on scaling operations at the self-driving technology company ahead of its commercial launch in 2024.… [+892 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "United Airlines announces JV to develop sustainable fuel using ... - Reuters",
+            "description": "United Airlines Holdings Inc <a href=\"https://www.reuters.com/companies/UAL.O\" target=\"_blank\">(UAL.O)</a> on Tuesday announced a new joint venture to develop and commercialize a sustainable aviation fuel (SAF) technology that will use ethanol as a feedstock.",
+            "url": "https://www.reuters.com/business/aerospace-defense/united-airlines-announces-jv-develop-sustainable-fuel-using-ethanol-2023-01-31/",
+            "urlToImage": "https://www.reuters.com/resizer/YmBlvmiGS_86StbThwTeEaANJIE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4WLWM6VAJRLODLBUO4B7O3HIHA.jpg",
+            "publishedAt": "2023-01-31T16:30:00Z",
+            "content": "Jan 31 (Reuters) - United Airlines Holdings Inc (UAL.O) on Tuesday announced a new joint venture to develop and commercialize a sustainable aviation fuel (SAF) technology that will use ethanol as a f… [+1031 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "European shares steady ahead of PMI data - Reuters",
+            "description": "European stocks edged higher on Tuesday, boosted by a fresh run of gains for technology stocks, while investors awaited economic data that is expected to show a slight improvement in euro zone business activity.",
+            "url": "https://www.reuters.com/markets/europe/european-shares-steady-ahead-pmi-data-2023-01-24/",
+            "urlToImage": "https://www.reuters.com/resizer/YyqZ3SZvIHR3FB3LcDcWJsIiOgU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/VDQH4MYKCRNPPDKQFIDTTRFQ3Q.jpg",
+            "publishedAt": "2023-01-24T08:27:00Z",
+            "content": "Jan 24 (Reuters) - European stocks edged higher on Tuesday, boosted by a fresh run of gains for technology stocks, while investors awaited economic data that is expected to show a slight improvement … [+1068 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. layoffs hit two-year high in Jan. as tech slashed thousands of ... - Reuters",
+            "description": "Layoffs in the United States hit a more than two-year high in January as technology firms cut jobs at the second-highest pace on record to brace for a possible recession, a report showed on Thursday.",
+            "url": "https://www.reuters.com/world/us/us-layoffs-hit-two-year-high-jan-tech-slashed-thousands-jobs-report-2023-02-02/",
+            "urlToImage": "https://www.reuters.com/resizer/v-VogDALmKVNtMtvnfrjg_FbnMs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5DLSPCLSS5MDFGRQMU2Q7E7IJY.jpg",
+            "publishedAt": "2023-02-02T12:32:00Z",
+            "content": "Feb 2 (Reuters) - Layoffs in the United States hit a more than two-year high in January as technology firms cut jobs at the second-highest pace on record to brace for a possible recession, a report s… [+1691 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Yellen calls for urgent action to improve food security, climate ... - Reuters",
+            "description": "U.S. Treasury Secretary Janet Yellen on Tuesday called for urgent action to improve long-term food security in Africa and around the world, while adapting agricultural practices and technology to the changing climate.",
+            "url": "https://www.reuters.com/world/yellen-calls-urgent-action-improve-food-security-climate-resilience-africa-2023-01-24/",
+            "urlToImage": "https://www.reuters.com/resizer/YpOZ8rWfohjD6KMcy5DmdCrsoRM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3EYWWTEFTZLKLJW4KOW25ETYRU.jpg",
+            "publishedAt": "2023-01-24T14:10:00Z",
+            "content": "MWALUMINA VILLAGE, Chongwe District, Zambia, Jan 24 (Reuters) - U.S. Treasury Secretary Janet Yellen on Tuesday called for urgent action to improve long-term food security in Africa and around the wo… [+3390 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Japan's Eneos opens green hydrogen test plant in Australia - Reuters",
+            "description": "Eneos Corp <a href=\"https://www.reuters.com/companies/5020.T\" target=\"_blank\">(5020.T)</a>, Japan's biggest oil refiner, on Wednesday opened a small green hydrogen plant in Australia which will demonstrate its patented electrolysis technology, the Queensland …",
+            "url": "https://www.reuters.com/business/energy/japans-eneos-opens-green-hydrogen-test-plant-australia-2023-02-01/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=129",
+            "publishedAt": "2023-02-01T05:52:00Z",
+            "content": "MELBOURNE, Feb 1 (Reuters) - Eneos Corp (5020.T), Japan's biggest oil refiner, on Wednesday opened a small green hydrogen plant in Australia which will demonstrate its patented electrolysis technolog… [+1164 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AZoRobotics"
+            },
+            "author": null,
+            "title": "IBM and NASA Join Hands to Extract Insights from Earth Observations Using AI Technology - AZoRobotics",
+            "description": "<ol><li>IBM and NASA Join Hands to Extract Insights from Earth Observations Using AI Technology  AZoRobotics\r\n</li><li>NASA partners with IBM to build AI foundation models to advance climate science  VentureBeat\r\n</li><li>IBM and NASA team up to advance clima…",
+            "url": "https://www.azorobotics.com/News.aspx?newsID=13563",
+            "urlToImage": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_13563_16753392927823198.jpg",
+            "publishedAt": "2023-02-02T13:11:00Z",
+            "content": "IBM and NASA's Marshall Space Flight Center today announce a collaboration to use IBM's artificial intelligence (AI) technology to discover new insights in NASA's massive trove of Earth and geospatia… [+3941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Juli Clover",
+            "title": "MicroLED Apple Watch Ultra Appears to Be Slated for 2025",
+            "description": "Apple's first microLED Apple Watch will launch in 2025, display analyst Ross Young said again today. Young previously suggested the 2025 timeline in January, but he claims that new information from Apple supplier Osram confirms the timeline.\n\n\n\n\n\nOsram in its…",
+            "url": "https://www.macrumors.com/2023/02/07/microled-apple-watch-ultra-2025/",
+            "urlToImage": "https://images.macrumors.com/t/JJKyq-l1gJe5oLGZ3GArwGOO9ts=/2500x/article-new/2023/01/apple-watch-ultra-yellow.jpg",
+            "publishedAt": "2023-02-07T20:15:10Z",
+            "content": "Apple's first microLED Apple Watch will launch in 2025, display analyst Ross Young said again today. Young previously suggested the 2025 timeline in January, but he claims that new information from A… [+2422 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Daniel Oropeza",
+            "title": "Check Whether Your Ford SUV Is Part of This Recall",
+            "description": "Ford has recalled 462,000 vehicles worldwide (382,000 in the U.S.) because of a video output failure that prevents the rearview camera image from displaying on the dashboard. According to a report from Ford, there have been 17 crashes “minor accidents alleged…",
+            "url": "https://lifehacker.com/check-whether-your-ford-suv-is-part-of-this-recall-1850042990",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d06d70555b1d157c062d6906d9460de2.jpg",
+            "publishedAt": "2023-01-30T19:00:00Z",
+            "content": "Ford has recalled 462,000 vehicles worldwide (382,000 in the U.S.) because of a video output failure that prevents the rearview camera image from displaying on the dashboard. According to a report fr… [+1668 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "stabahriti@insider.com (Sam Tabahriti)",
+            "title": "People are 'over-trusting' self-driving technology and getting into serious accidents that injure or even kill them, warns researcher who Elon Musk once said was 'extremely biased against Tesla'",
+            "description": "Missy Cummings, a professor at George Mason University, told The New York Times that \"the technology is being abused by humans.\"",
+            "url": "https://www.businessinsider.com/people-over-trusting-self-driving-tech-like-tesla-researcher-warns-2023-2",
+            "urlToImage": "https://i.insider.com/63ed4b781d14070018baee5b?width=1200&format=jpeg",
+            "publishedAt": "2023-02-16T11:50:50Z",
+            "content": "A researcher who Elon Musk once said was \"extremely biased against Tesla\" warned that drivers were \"over-trusting\" self-driving technology and getting into serious accidents that injure or even kill … [+2513 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "cboudreau@insider.com (Catherine Boudreau)",
+            "title": "The world is one step closer to making a business out of vacuuming carbon dioxide from the sky",
+            "description": "Climeworks, which makes technology for pulling carbon dioxide from the air, hit a milestone when a third-party auditor verified the company's process.",
+            "url": "https://www.businessinsider.com/carbon-dioxide-removal-air-sky-machine-climate-change-climeworks-2023-1",
+            "urlToImage": "https://i.insider.com/63cb11affcc41d0018a390b9?width=1200&format=jpeg",
+            "publishedAt": "2023-01-23T16:32:00Z",
+            "content": "The latest climate win came in the form of an audit.\r\nThe Swiss company Climeworks this month hit a milestone when, for the first time, an independent third-party verified the startup's novel technol… [+4086 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "amok@insider.com (Aaron Mok)",
+            "title": "A Wharton business school professor is requiring his students to use ChatGPT",
+            "description": "UPenn professor Ethan Mollick told NPR that he thinks educators need to adapt to the new technology, despite fears of cheating.",
+            "url": "https://www.businessinsider.com/wharton-mba-professor-requires-students-to-use-chatgpt-ai-cheating-2023-1",
+            "urlToImage": "https://i.insider.com/63d2c47eb1f17f001805d2f2?width=1200&format=jpeg",
+            "publishedAt": "2023-01-26T21:44:22Z",
+            "content": "While ChatGPT may be getting heat from certain educators who worry it will facilitate cheating, one professor said that he is embracing the technology with open arms.\r\nEthan Mollick, an entrepreneurs… [+2554 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "mfox@businessinsider.com (Matthew Fox)",
+            "title": "Beaten down stocks like Carvana and Bed Bath & Beyond are getting a huge boost as risk appetite returns amid the Fed's acknowledgement of falling inflation",
+            "description": "The drop in interest rates helped spark a significant rally in beaten down stocks on Thursday, with the technology sector leading the way.",
+            "url": "https://markets.businessinsider.com/news/stocks/stock-market-risk-on-rally-fed-acknowledges-falling-inflation-carvana-2023-2",
+            "urlToImage": "https://i.insider.com/5f721e7374fe5b0018a8dc91?width=1200&format=jpeg",
+            "publishedAt": "2023-02-02T18:01:01Z",
+            "content": "A risk-on sentiment returned to the stock market on Thursday after Federal Reserve Chairman Jerome Powell acknowledged that inflation is falling.\r\nShares of high-risk companies like Carvana and Bed B… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "tmaxwell@insider.com (Thomas Maxwell)",
+            "title": "OpenAI makes a ChatGPT-like tool called Codex that can write software. Here's why Codex won't replace developers and will instead create more demand for their skills.",
+            "description": "Artificial intelligence software like Codex can now write code all on its own. Experts say the technology won't eliminate the necessity of expertise.",
+            "url": "https://www.businessinsider.com/chatgpt-openai-codex-developer-jobs-2023-2",
+            "urlToImage": "https://i.insider.com/63dc193b0a08ae0018a68ae2?width=1200&format=jpeg",
+            "publishedAt": "2023-02-05T14:05:00Z",
+            "content": "OpenAI is the talk of the town these days as the company's intelligent chatbot ChatGPT has sparked imaginations and made people ask what role artificial intelligence will play going forward. The same… [+5144 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "gkay@insider.com (Grace Kay)",
+            "title": "ChatGPT's founder blasts Google as a 'lethargic search monopoly' as the tech giant's AI war with Microsoft heats up",
+            "description": "OpenAI CEO Sam Altman said he sees tremendous potential for his company's AI technology to change the way people find information online.",
+            "url": "https://www.businessinsider.com/chatgpt-founder-sam-altman-apparent-google-criticism-lethargic-search-monopoly-2023-2",
+            "urlToImage": "https://i.insider.com/63e3c20996242f0019e7f3f0?width=1200&format=jpeg",
+            "publishedAt": "2023-02-08T19:24:57Z",
+            "content": "OpenAI CEO Sam Altman took a subtle dig at Google, which he called a \"lethargic search monopoly,\" during an interview on Tuesday.\r\nAltman said he sees tremendous upside to Microsoft's decision to inc… [+2748 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "amcdade@insider.com (Aaron McDade)",
+            "title": "Studies show ChatGPT cheating is on the rise among students — young and old — as teachers remain divided on bans",
+            "description": "ChatGPT has become an increasingly common cheating tool since its November release. However, teachers and students are still split on whether the technology should be allowed in schools.",
+            "url": "https://www.businessinsider.com/teachers-caught-students-cheating-chatgpt-survey-shows-2023-2",
+            "urlToImage": "https://i.insider.com/63e408a427e5db0018eece94?width=1200&format=jpeg",
+            "publishedAt": "2023-02-08T22:18:54Z",
+            "content": "As new studies continue to show students taking advantage of artificial intelligence technology, like OpenAI's ChatGPT, educators remain split over its larger effects on learning.\r\nA new survey from … [+2788 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "apollard@insider.com (Aidan Pollard)",
+            "title": "Microsoft CEO says OpenAI partnership will allow companies to access tools like ChatGPT in workplace emails, slideshows, and spreadsheets",
+            "description": "Microsoft expanded access to Azure OpenAI Service, following a first wave of layoffs including the team integrating ChatGPT technology into Bing.",
+            "url": "https://www.businessinsider.com/microsoft-openai-artifical-intelligence-technology-workplace-integration-2023-1",
+            "urlToImage": "https://i.insider.com/6282839565d1770019e486c2?width=1200&format=jpeg",
+            "publishedAt": "2023-01-22T14:30:43Z",
+            "content": "Microsoft is betting big on artificial intelligence by integrating the technology into workplace emails, slideshows, and spreadsheets part of its ongoing partnership with OpenAI, the company behind t… [+2286 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "prosen@insider.com (Phil Rosen)",
+            "title": "Wall Street's expectations for AI's influence on markets are skyrocketing, JPMorgan survey says",
+            "description": "The share of Wall Street traders who think AI will be most influential technology on markets has doubled in the past year.",
+            "url": "https://markets.businessinsider.com/news/funds/wall-street-traders-ai-chatgpt-markets-artificial-intelligence-machine-learning-2023-2",
+            "urlToImage": "https://i.insider.com/63da91010a08ae0018a656ba?width=1200&format=jpeg",
+            "publishedAt": "2023-02-01T17:50:04Z",
+            "content": "Amid the recent hype surrounding ChatGPT, Wall Street increasingly anticipates artificial intelligence will change how markets operate.\r\nA JPMorgan survey found that 53% of institutional traders beli… [+1461 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "bnolan@insider.com (Beatrice Nolan)",
+            "title": "Google CEO Sundar Pichai says users will be able to interact directly with AI features in its search engine 'very soon'",
+            "description": "AI \"is the most profound technology\" the company is working on, Pichai said. He first mentioned Google's plans to become \"AI-first\" several years ago.",
+            "url": "https://www.businessinsider.com/google-sundar-pichai-ai-features-search-tech-2023-2",
+            "urlToImage": "https://i.insider.com/60da240636cf170019de8599?width=1200&format=jpeg",
+            "publishedAt": "2023-02-03T11:33:14Z",
+            "content": "Google is keen to show the company is still \"AI-first.\" \r\nIts CEO, Sundar Pichai, told investors on Thursday that AI \"is the most profound technology\" the company is working on. His comments came sev… [+1456 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "jhart@insider.com (Jordan Hart)",
+            "title": "Schools are banning ChatGPT but an OpenAI exec says the technology is a vital tool to improve learning in classrooms",
+            "description": "Top execs behind ChatGPT say it can be used as a learning tool in academic settings despite schools opting to ban the new technology.",
+            "url": "https://www.businessinsider.com/chatgpt-openai-cto-says-chatgpt-can-improve-classroom-learning-education-2023-2",
+            "urlToImage": "https://i.insider.com/63dfeb520a08ae0018a6ccee?width=1200&format=jpeg",
+            "publishedAt": "2023-02-05T20:53:27Z",
+            "content": "As schools across the globe express growing concern about the rise of artificial intelligence bots, a ChatGPT executive says the technology can be useful in the classroom.\r\nIn an interview with Time … [+2352 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Sri Krishna",
+            "title": "Quantum Brilliance snags $18M funding on synthetic diamond road to quantum chips",
+            "description": "Quantum Brilliance, which today announced an $18M fundraise, is applying synthetic diamond technology for quantum accelerators.",
+            "url": "https://venturebeat.com/programming-development/quantum-brilliance-snags-18m-funding-on-synthetic-diamond-road-to-quantum-chips/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2021/01/GettyImages-1150039017-e1676421760778.jpg?w=1200&strip=all",
+            "publishedAt": "2023-02-15T00:45:33Z",
+            "content": "Quantum Brilliance hit the quantum computing scene in 2019 with an ambitious vision to apply synthetic diamond technology for quantum accelerators. The Australia-based companys approach is meant to s… [+6946 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "astewart@insider.com (Ashley Stewart)",
+            "title": "See Bing's breakout week in charts as Microsoft taps new ChatGPT technology to go after Google's search lead",
+            "description": "Microsoft is using new ChatGPT technology to update its Bing search engine and try to take market share from Google. It has a lot of work ahead.",
+            "url": "https://www.businessinsider.com/microsoft-bing-chatgpt-largest-download-day-ever-google-search-2023-2",
+            "urlToImage": "https://i.insider.com/63e6bf7996242f0019e874b9?width=1200&format=jpeg",
+            "publishedAt": "2023-02-10T23:15:11Z",
+            "content": "It was a big week for Bing. Relatively speaking.\r\nOn Tuesday, Microsoft unveiled an updated Bing search engine powered by the technology behind ChatGPT. The OpenAI chatbot has taken the world by stor… [+2426 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Github.com"
+            },
+            "author": "iperov",
+            "title": "Stop Developing This Technology",
+            "description": "This technology is only going to be used for evil purposes. To deceive people, steal their money, possessions, undercover operations. Nothing good. It is already being used for scams like the pig-b...",
+            "url": "https://github.com/iperov/DeepFaceLive/issues/41",
+            "urlToImage": "https://opengraph.githubassets.com/8fb31426a50be7fa569ea6882e237f1e9ff2ce93a5e6ec979ad058c5df3cf8ab/iperov/DeepFaceLive/issues/41",
+            "publishedAt": "2023-02-02T06:00:05Z",
+            "content": "This technology is only going to be used for evil purposes. To deceive people, steal their money, possessions, undercover operations. Nothing good. It is already being used for scams like the pig-but… [+3967 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Will Knight",
+            "title": "What Chatbot Bloopers Reveal About the Future of AI",
+            "description": "Microsoft’s new chatbot for Bing has displayed some strange behavior, proving that AI is more fallible than tech companies let on.",
+            "url": "https://www.wired.com/story/bing-chatbot-errors-ai-future/",
+            "urlToImage": "https://media.wired.com/photos/63ed53c47d87edd2f4f350da/191:100/w_1280,c_limit/biz-satya-chagpt-1246881125.jpg",
+            "publishedAt": "2023-02-16T17:00:00Z",
+            "content": "What a difference seven days makes in the world of generative AI.\r\nLast week Satya Nadella, Microsofts CEO, was gleefully telling the world that the new AI-infused Bing search engine would make Googl… [+3598 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "Toyota will launch a 'next-generation' EV under the Lexus brand",
+            "description": "Toyota has revealed its plans for the future under a new CEO, and it looks like the company is finally prioritizing electrification. In his announcement, new President and CEO Koji Sato said the automaker is going to create new electric vehicles unique to Toy…",
+            "url": "https://www.engadget.com/toyota-next-generation-ev-lexus-105756171.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/edaa9410-ac4a-11ed-b7e3-ab92e77c44b3",
+            "publishedAt": "2023-02-14T10:57:56Z",
+            "content": "Toyota has revealed its plans for the future under a new CEO, and it looks like the company is finally prioritizing electrification. In his announcement, new President and CEO Koji Sato said the auto… [+1411 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Instagram shuts down live shopping on March 16th",
+            "description": "Meta isn't done pulling back some of its shopping features. Instagram has warned users that live shopping will shut down on March 16th. From that day on, shops can't tag products during livestreams — you'll have to wait until afterward (or rely on less-than-e…",
+            "url": "https://www.engadget.com/instagram-live-shopping-shutdown-205824247.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/89739c70-aca5-11ed-be5f-70614eaf1ca6",
+            "publishedAt": "2023-02-14T20:58:24Z",
+            "content": "Meta isn't done pulling back some of its shopping features. Instagram has warned users that live shopping will shut down on March 16th. From that day on, shops can't tag products during livestreams y… [+1500 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Saniya Ahmed",
+            "title": "How the Artists of 'Destiny 2' Gave Life to Its Big, Bad Enemy",
+            "description": "The franchise’s upcoming Lightfall expansion revealed an evolution for the once-formless Pyramid Fleet. WIRED got a closer look with Bungie’s art team.",
+            "url": "https://www.wired.com/story/destiny-2-art-witch-queen-lightwall-the-darkness/",
+            "urlToImage": "https://media.wired.com/photos/63e2b29c7d87edd2f4f35009/191:100/w_1280,c_limit/Visual-Design-in-Destiny-2-Featured-2-Games.jpg",
+            "publishedAt": "2023-02-08T13:00:00Z",
+            "content": "Without getting too specific, these designs, depending on application, are meant to convey abstract ideas, processes, or ideologies that unify the Darkness. So, theyre not strictly contained to the B… [+3033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": "CNN",
+            "title": "Newly discovered asteroid makes one of the closest approaches of Earth - CTV News",
+            "description": "CTV News is your source for today's news on science and technology, including the latest articles and videos on gadgets, products and reviews.",
+            "url": "https://www.ctvnews.ca/sci-tech/newly-discovered-asteroid-makes-one-of-the-closest-approaches-of-earth-1.6248721",
+            "urlToImage": "https://www.ctvnews.ca/polopoly_fs/1.6248726.1674823499!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+            "publishedAt": "2023-01-27T12:47:15Z",
+            "content": "Originally Published: 26 JAN 23 12:14 ET\r\n    (CNN) -- An asteroid the size of a box truck made one of the closest passes of planet Earth ever recorded.\r\nThe small near-Earth asteroid, called 2023 BU… [+2628 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "‘Overwatch 2’ will punish players who regularly team up with cheaters",
+            "description": "With the third season of Overwatch 2 slated to start on February 7th, Blizzard is stepping up its efforts to combat cheating. In a blog post published Wednesday, the studio said it would begin identifying players who regularly play with known cheaters. Blizza…",
+            "url": "https://www.engadget.com/overwatch-2-will-punish-players-who-team-up-with-cheaters-223510700.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/222ec140-a27b-11ed-bcaf-708a057bb284",
+            "publishedAt": "2023-02-01T22:35:10Z",
+            "content": "With the third season of Overwatch 2 slated to start on February 7th, Blizzard is stepping up its efforts to combat cheating. In a blog post published Wednesday, the studio said it would begin identi… [+1747 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Garmin debuts an ECG app, but it's only available on one smartwatch",
+            "description": "Garmin hasn't yet had a dedicated electrocardiogram (ECG) app despite the health focus of its wearables, but it's filling that gap today. The company has introduced a simply-titled ECG App that, like equivalents on other devices, can study your heart rhythm a…",
+            "url": "https://www.engadget.com/garmin-ecg-app-smartwatch-120035781.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/e3a406b0-981b-11ed-8ffb-57d53eaafc4b",
+            "publishedAt": "2023-01-24T12:00:35Z",
+            "content": "Garmin hasn't yet had a dedicated electrocardiogram (ECG) app despite the health focus of its wearables, but it's filling that gap today. The company has introduced a simply-titled ECG App that, like… [+1516 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "Google’s Bard chatbot confidently spouts misinformation in Twitter debut",
+            "description": "If the unofficial debut of Google’s Bard chatbot is any indication, misinformation is about to get a lot worse. The company posted an ad to Twitter this week showing off the natural-language AI model displaying false information about the James Webb Space Tel…",
+            "url": "https://www.engadget.com/google-bard-chatbot-false-information-twitter-ad-165533095.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-02/efd15540-a663-11ed-93e7-43c57eeabe19",
+            "publishedAt": "2023-02-08T16:55:33Z",
+            "content": "If the unofficial debut of Googles Bard chatbot is any indication, misinformation is about to get a lot worse. The company posted an ad to Twitter this week showing off the natural-language AI model … [+1484 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "SpaceX doesn't want Ukraine using Starlink to control military drones",
+            "description": "Elon Musk's SpaceX may be willing to supply Ukraine with Starlink service as it repels the Russian invasion, but it's not thrilled with every use of the satellite internet technology. Operating chief Gwynne Shotwell tells guests at a Federal Aviation Administ…",
+            "url": "https://www.engadget.com/spacex-objects-to-ukraine-starlink-drones-215629197.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/0072fd00-a8bb-11ed-b6ff-fc22c6481d87",
+            "publishedAt": "2023-02-09T21:56:29Z",
+            "content": "Elon Musk's SpaceX may be willing to supply Ukraine with Starlink service as it repels the Russian invasion, but it's not thrilled with every use of the satellite internet technology. Operating chief… [+1682 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Jon Fingas",
+            "title": "Wearable ultrasound patch could offer real-time heart scans on the go",
+            "description": "Ultrasound can provide detailed images of your heart, but the bulk makes it impractical for continuous scanning — especially outside of the hospital. It might be far more portable in the future, however. Researchers have developed a wearable ultrasound patch …",
+            "url": "https://www.engadget.com/wearable-heart-ultrasound-patch-184743539.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/91e1a7e0-9cd7-11ed-bfff-99e2f2332746",
+            "publishedAt": "2023-01-25T18:47:43Z",
+            "content": "Ultrasound can provide detailed images of your heart, but the bulk makes it impractical for continuous scanning especially outside of the hospital. It might be far more portable in the future, howeve… [+1750 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Gareth Branwyn",
+            "title": "More Primitive Technology's explorations of the Iron Age",
+            "description": "John Plant of Primitive Technology continues his explorations of Iron Age technology. In this video, he attempts to remove the carbon (decarburize) from some iron prills he produced using a method demonstrated in another video. His goal was to produce a malle…",
+            "url": "https://boingboing.net/2023/02/03/more-primitive-technologys-explorations-of-the-iron-age.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2023/02/Screen-Shot-2023-02-02-at-6.04.49-PM.png?fit=957%2C399&ssl=1",
+            "publishedAt": "2023-02-03T15:45:41Z",
+            "content": "John Plant of Primitive Technology continues his explorations of Iron Age technology. In this video, he attempts to remove the carbon (decarburize) from some iron prills he produced using a method de… [+1817 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Anne Raimondi, Asana",
+            "title": "Why getting your tech stack right is critical for your business",
+            "description": "Technology is evolving every day. So is the workplace. Business leaders must diligently match the two to empower productive employees.",
+            "url": "https://venturebeat.com/virtual/why-getting-your-tech-stack-right-is-critical-for-your-business/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1339030364.jpg?w=1200&strip=all",
+            "publishedAt": "2023-02-11T18:10:00Z",
+            "content": "Check out all the on-demand sessions from the Intelligent Security Summit here.\r\nAs businesses navigate economic uncertainty, leaders need their teams to be empowered to spend more time on work that … [+1432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "VB Staff",
+            "title": "Why a strong infrastructure is non-negotiable for your game’s success",
+            "description": "Building your player base and making sure it thrives long-term requires the right technology tools, solutions and strategy.",
+            "url": "https://venturebeat.com/games/why-a-strong-infrastructure-is-non-negotiable-for-your-games-success/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/02/GettyImages-1385176855.jpg?w=1200&strip=all",
+            "publishedAt": "2023-02-17T14:10:00Z",
+            "content": "Presented by DataStax\r\nBuilding your player base and making sure it thrives long-term requires the right technology tools, solutions and strategy. In this VB Spotlight, industry pros behind one of th… [+4560 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Matt Wagnon, Syniti",
+            "title": "Managing data migration complexity in the real world",
+            "description": "Today’s data migrations are much more complex than “lift and shift.\" They require collaboration between people and technology.",
+            "url": "https://venturebeat.com/data-infrastructure/managing-data-migration-complexity-in-the-real-world/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1340683419.jpg?w=1200&strip=all",
+            "publishedAt": "2023-02-19T16:20:00Z",
+            "content": "Check out all the on-demand sessions from the Intelligent Security Summit here.\r\nData migrations are too often thought about as just a simple lift and shift of data from one system to another. In man… [+1361 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Andrew Tarantola",
+            "title": "The Ghostwriter typewriter brings generative AI to the printed page",
+            "description": "Running from 1992 through 1995, Ghostwriter, the beloved PBS children’s television show, followed a diverse group of friends as they solved mysteries around their Brooklyn neighborhood with the help of their haunted typewriter, a cursed item possessed by the …",
+            "url": "https://www.engadget.com/the-ghostwriter-typewriter-brings-generative-ai-to-the-printed-page-170016720.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/Xwnhp58EJouIm27Zxde6bA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-02/87e37de0-ae16-11ed-bf3f-4920fca01694.cf.jpg",
+            "publishedAt": "2023-02-16T17:00:16Z",
+            "content": "Running from 1992 through 1995, Ghostwriter, the beloved PBS childrens television show, followed a diverse group of friends as they solved mysteries around their Brooklyn neighborhood with the help o… [+6185 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Sarah Butler",
+            "title": "City watchdog may ‘ease rules’ in order to secure $40bn Arm listing",
+            "description": "Officials locked in talks with tech firm’s Japanese owner, SoftBank, according to Sunday Times reportThe City watchdog is considering easing rules in a bid to win the $40bn (£34bn) listing of Cambridge-based technology firm Arm Holdings, it has been reported.…",
+            "url": "https://www.theguardian.com/business/2023/feb/05/city-watchdog-may-ease-rules-in-order-to-secure-40bn-arm-listing",
+            "urlToImage": "https://i.guim.co.uk/img/media/50a8e5a1c3cab6d0ada804f431951a0677a11366/0_12_3354_2014/master/3354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1f0902cdf356cae71aa50dccbb9eb159",
+            "publishedAt": "2023-02-05T15:08:10Z",
+            "content": "The City watchdog is considering easing rules in a bid to win the $40bn (£34bn) listing of Cambridge-based technology firm Arm Holdings, it has been reported.\r\nOfficials are said to be locked in talk… [+2169 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Jeff White, Gravy Analytics",
+            "title": "Why leveraging privacy-enhancing tech advances consumer data privacy and protection",
+            "description": "If more tech companies make their privacy-enhancing features available to others, consumer data privacy technology will only accelerate.",
+            "url": "https://venturebeat.com/enterprise-analytics/why-leveraging-privacy-enhancing-tech-advances-consumer-data-privacy-and-protection/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1166272744.jpg?w=1200&strip=all",
+            "publishedAt": "2023-01-22T17:10:00Z",
+            "content": "Check out all the on-demand sessions from the Intelligent Security Summit here.\r\nEnterprises across a wide variety of industries are using location data and the insights derived from it to solve diff… [+1316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Andrew Bud, iProov",
+            "title": "Verification, authentication, recognition: Deciphering biometric terms",
+            "description": "Verification, authentication, recognition — the real meanings of the terms we use for face biometrics as biometric technology advances.",
+            "url": "https://venturebeat.com/security/verification-authentication-recognition-deciphering-biometric-terms/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1168365129.jpg?w=1200&strip=all",
+            "publishedAt": "2023-02-09T19:07:00Z",
+            "content": "Check out all the on-demand sessions from the Intelligent Security Summit here.\r\nBiometric technology can offer consumers convenient, robust security. According to research from YouGov, 52% of consum… [+1367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "VentureBeat"
+            },
+            "author": "Sharon Goldman",
+            "title": "NIST releases new AI risk management framework for ‘trustworthy’ AI",
+            "description": "Today the National Institute of Standards and Technology (NIST) released the first version of its new AI Risk Management Framework.",
+            "url": "https://venturebeat.com/ai/nist-releases-new-ai-risk-management-framework-for-trustworthy-ai/",
+            "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/01/Untitled-design-12.png?w=1200&strip=all",
+            "publishedAt": "2023-01-26T16:03:35Z",
+            "content": "Check out all the on-demand sessions from the Intelligent Security Summit here.\r\nToday the U.S. Department of Commerces National Institute of Standards and Technology (NIST) released the first versio… [+1300 chars]"
+        }
+    ]
+}
